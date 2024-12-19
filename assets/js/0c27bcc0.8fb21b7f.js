@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaudanika_sample=self.webpackChunkaudanika_sample||[]).push([[957],{9369:a=>{a.exports=JSON.parse('{"allTagsPath":"/docusaurus-audanika/blog/tags","slug":"/docusaurus-audanika/blog/tags/hola","name":"hola","count":1,"permalink":"/docusaurus-audanika/blog/tags/hola"}')}}]);
